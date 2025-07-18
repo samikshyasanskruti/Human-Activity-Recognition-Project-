@@ -67,8 +67,6 @@ Dense (6 units, Softmax)
 ```
 
 
-
-
 - **Loss:** Categorical Crossentropy  
 - **Optimizer:** Adam  
 - **Epochs:** 15  
